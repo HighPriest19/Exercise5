@@ -1,0 +1,14 @@
+/Users/hinckley/Exercise5/bin/Debug/net9.0/Exercise5
+/Users/hinckley/Exercise5/bin/Debug/net9.0/Exercise5.deps.json
+/Users/hinckley/Exercise5/bin/Debug/net9.0/Exercise5.runtimeconfig.json
+/Users/hinckley/Exercise5/bin/Debug/net9.0/Exercise5.dll
+/Users/hinckley/Exercise5/bin/Debug/net9.0/Exercise5.pdb
+/Users/hinckley/Exercise5/obj/Debug/net9.0/Exercise5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hinckley/Exercise5/obj/Debug/net9.0/Exercise5.AssemblyInfoInputs.cache
+/Users/hinckley/Exercise5/obj/Debug/net9.0/Exercise5.AssemblyInfo.cs
+/Users/hinckley/Exercise5/obj/Debug/net9.0/Exercise5.csproj.CoreCompileInputs.cache
+/Users/hinckley/Exercise5/obj/Debug/net9.0/Exercise5.dll
+/Users/hinckley/Exercise5/obj/Debug/net9.0/refint/Exercise5.dll
+/Users/hinckley/Exercise5/obj/Debug/net9.0/Exercise5.pdb
+/Users/hinckley/Exercise5/obj/Debug/net9.0/Exercise5.genruntimeconfig.cache
+/Users/hinckley/Exercise5/obj/Debug/net9.0/ref/Exercise5.dll
